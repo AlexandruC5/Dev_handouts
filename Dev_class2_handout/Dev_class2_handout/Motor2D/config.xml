@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Config file for the game -->
+
+<config>
+
+
+  <app>
+
+    <title>Game Development Testbed</title>
+
+    <organization>UPC</organization>
+
+  </app>
+
+
+  <renderer>
+
+    <vsync value="true"/>
+
+  </renderer>
+
+
+  <window>
+
+    <resolution scale="1" height="768" width="1024"/>
+
+    <fullscreen value="false"/>
+
+    <borderless value="false"/>
+
+    <resizable value="false"/>
+
+    <fullscreen_window value="false"/>
+
+  </window>
+
+
+  <file_system>
+
+    
+
+  </file_system>
+
+
+  <audio>
+
+
+    <music>
+
+      
+
+    </music>
+
+
+    <sfx>
+
+     
+
+    </sfx>
+
+  </audio>
+
+
+  -<map>
+
+    
+
+  </map>
+
+
+  <player>
+
+    
+
+  </player>
+
+
+  <scene>
+
+    
+
+  </scene>
+</config>
